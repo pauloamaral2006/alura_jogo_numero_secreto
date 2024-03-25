@@ -90,7 +90,7 @@ function exibirMendagemInicial(){
 let numeroSecreto;
 let tentativas;
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 
 reiniciarJogo();
 
